@@ -13,7 +13,6 @@ def Mbox(title, text, style=0):
 
 
 if __name__ == "__main__":
-    threads = []
     while True:
         for i in range(100):
             threading.Thread(target=Mbox, args=["Get Back To Work", "It's been 20 minutes,"
