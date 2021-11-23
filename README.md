@@ -1,5 +1,5 @@
 # ConcentrateML
-## Status: :construction: On pause, I have started working with UOttawa connected autonomous vehicles.
+## Status: :construction: On pause, I have started working with UOttawa connected autonomous vehicles. Hopefully will begin working on this again in December 2021.
 ## Project Derscription:
 This is a personal project in which I am using machine learning to help students concentrate during their online classes. The goal is for the model to recognize when a student is distracted (i.e. goes on their phone) during class. 
 
