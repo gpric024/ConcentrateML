@@ -1,5 +1,5 @@
 # ConcentrateML
-## Status: :construction: In development. Hopefully I will have a first version available in February 2022.
+## Project Status: :construction: (In development, hopefully I will have a first version available in February 2022.)
 ## Project Derscription:
 This is a personal project in which I am using object detection to help students concentrate during their online classes. The goal is for the model to recognize when a student is distracted (i.e. goes on their phone) during class. 
 
